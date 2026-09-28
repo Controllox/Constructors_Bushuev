@@ -31,7 +31,7 @@ x:Class="Constructors_Bushuev.Elements.Student">
             <TextBlock x:Name="tb_scholarship"
                        Text="Стипендия: получает"
                        VerticalAlignment="Center"
-                       Margin="9,8,10"
+                       Margin="9,8,10,8"
                        Grid.Column="2"
                        Foreground="White" FontSize="14"/>
 
