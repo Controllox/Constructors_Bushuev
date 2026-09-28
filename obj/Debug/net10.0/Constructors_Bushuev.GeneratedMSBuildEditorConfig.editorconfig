@@ -46,5 +46,8 @@ build_property.EnableCodeStyleSeverity =
 [/home/patrick/MDK_05_02/Constructors_Bushuev/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[/home/patrick/MDK_05_02/Constructors_Bushuev/Elements/Student.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [/home/patrick/MDK_05_02/Constructors_Bushuev/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
